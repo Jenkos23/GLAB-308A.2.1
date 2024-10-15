@@ -7,4 +7,6 @@ The wizard class extends to Adventurer and have the ability to cast spell: My wi
 
 I have alot of commented out session because it was not working but i ensured other prerequiste higlighted in the assigment is done an completed
 
+I still need to understand the fullscope of Java OOP 
+
 
