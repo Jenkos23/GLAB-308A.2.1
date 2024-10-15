@@ -5,6 +5,6 @@ The wizard class extends to Adventurer and have the ability to cast spell: My wi
 
 -- I added a drink method() that aids my adventurer companion purchase and buy water 
 
-I have alot commented out session because it was not working but i ensured other preequiste higlighted the assigment is done an completed
+I have alot of commented out session because it was not working but i ensured other prerequiste higlighted in the assigment is done an completed
 
 
